@@ -120,21 +120,7 @@ nav {
   height: 100%;
 }
 
-/*SLIDER*/
 
-.slider1 {
-  max-height: 800px;
-  overflow: hidden;
-  width: 100vw;
-}
-
-.imagenslider {
-  width: 100vw;
-  background-size: cover;
-  background-position: center;
-  align-items: center;
-  z-index: 1;
-}
 
 /* SECCION2 */
 .seccion2 {
