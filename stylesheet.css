@@ -889,7 +889,7 @@ nav {
     top:0;
     width: 30px;
     height: 5px;
-    background: #e9e8e8;
+    background: #dbb7b7;
     transition: all .3s ease;
   }
   .btn_span:nth-child(2) {
@@ -1674,7 +1674,6 @@ nav {
     width: 100vw;
     height: 60px;
    
-    background-color: gray;
     opacity: 0.4;
   }
 
